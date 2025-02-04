@@ -1,3 +1,4 @@
 Cap1: Introducción a Git
 Cap2: Flujo de trabajo básico
-Cap3: Repositorios remotos
+Cap3: Gestión de ramas
+Cap4: Repositorios remotos
